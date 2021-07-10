@@ -1,6 +1,6 @@
 # Khatia Nikuradze
 * **Contact Info.:**
-|| *Tbilisi, Georgia* || *khatianikuradze927@gmail.com*|| *558696866* ||
+|| *Tbilisi, Georgia* || *khatianikuradze927@gmail.com* || *558696866* ||
 * **Summary:**
 *Interested in gaining knowledge about different things. The wish to gain more experience in programming. Still in university, ergo the desire to deepen the knowledge in this subject is big. Independent, curious, fast-learner, attentive, and responsible.*
 * **Skills:**
