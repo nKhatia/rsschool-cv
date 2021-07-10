@@ -8,7 +8,7 @@
 * **Code Examples:**
 *A webpage using HTML, CSS, JS.  Also, Back-end part using Visual Studio 2019 .NET Core 5.*
 * **Experience:**
-*The experience mainly consists of the assigments for the university. Especially the assigments done in the third year using Visual Studio and C# - Windows Forms, and then the final project - a simple webpage using html, css, javascript. Both front and back-end done for the assignment.*
+*The experience mainly consists of the assigments for the university. Especially the assigments done in the third year using Visual Studio and C# - Windows Forms, and then the final project - a simple webpage using html, css, javascript. Both front and back-end done for the assignment.* 
 * **Education:**
 *Finished three years of university, now getting ready to start fourth in San Diego State University - Georgia.*
 * **English:**
