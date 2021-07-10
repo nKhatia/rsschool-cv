@@ -1,1 +1,1 @@
-[cv.md](https://nKhatia.io/rsschool-cv/cv)
+[cv.md](https://nKhatia.github.io/rsschool-cv/cv)
